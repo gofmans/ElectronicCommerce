@@ -1,3 +1,7 @@
+Matching Markets - Deferred Acceptance and Market Clearing HW2 assignment eCommerce Technion 2019
+
+
+
 In the competitive part, we decided to "merge" each pair of students into one "pseudo-student".
 Each "pseudo student" has unique ID ('sid_1.sid_2'), a combined projects preferences list and an average 
 grade in CS and math.
